@@ -1,4 +1,17 @@
-### Hi there 👋
+### Android Developer 
+
+- ## Skills
+	- **Kotlin**
+	- Navigation Components
+	- MVVM + Clean Architecture
+	- Coroutines 
+	- Flow
+	- Dependency Injection with Hilt
+	- Firebase 
+	- Room 
+	- Retrofit
+	- Gradle
+	- All new in native Android development
 
 <!--
 **jander96/jander96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
