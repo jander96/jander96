@@ -1,6 +1,6 @@
-### Android Developer 
+## Android Developer 
 
-- ## Skills
+- ### Skills
 	- **Kotlin**
 	- Navigation Components
 	- MVVM + Clean Architecture
