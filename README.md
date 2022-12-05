@@ -10,6 +10,7 @@
 	- Firebase 
 	- Room 
 	- Retrofit
+	- WorkManger
 	- Gradle
 	- All new in native Android development
 
