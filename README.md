@@ -1,4 +1,5 @@
 ## Android Developer 
+![](https://github.com/jander96/private_policy/blob/main/l.png)
 
 - ### Skills
 	- **Kotlin**
