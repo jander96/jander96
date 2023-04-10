@@ -17,6 +17,7 @@
 	- WorkManger
 	- Gradle
 	- Unit test
+	- Git, GitFlow
 	- All new in native Android development
 	- Ability to learn and adopt new technologies
 	- Minimal experience in Dart and Flutter
