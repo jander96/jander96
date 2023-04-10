@@ -3,17 +3,24 @@
 
 - ### Skills
 	- **Kotlin**
+	- Design Patterns
 	- Navigation Components
 	- MVVM + Clean Architecture
+	- MVI 
+	- Unidireccional dataflow
 	- Coroutines 
-	- Flow
+	- Flows
 	- Dependency Injection with Hilt
 	- Firebase 
 	- Room 
 	- Retrofit
 	- WorkManger
 	- Gradle
+	- Unit test
 	- All new in native Android development
+	- Ability to learn and adopt new technologies
+	- Minimal experience in Dart and Flutter
+	- Lover of Python in my free time
 
 <!--
 **jander96/jander96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
