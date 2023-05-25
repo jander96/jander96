@@ -1,4 +1,4 @@
-## Android Developer 
+## Mobile Developer 
 ![](https://github.com/jander96/private_policy/blob/main/l.png)
 
 - ### Skills
@@ -20,7 +20,7 @@
 	- Git, GitFlow
 	- All new in native Android development
 	- Ability to learn and adopt new technologies
-	- Minimal experience in Dart and Flutter
+	- Experience in Dart and Flutter
 	- Lover of Python in my free time
 
 <!--
