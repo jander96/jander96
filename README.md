@@ -1,5 +1,5 @@
 ## Mobile Developer 
-![]([https://github.com/jander96/private_policy/blob/main/l.png](https://github.com/jander96/jander96/blob/main/backgroud%20github.png))
+![](https://raw.githubusercontent.com/jander96/jander96/main/backgroud%20github.png)
 
 - ### Skills
 	- **Kotlin**
