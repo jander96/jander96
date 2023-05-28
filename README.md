@@ -5,13 +5,12 @@
 	- **Kotlin**
 	- Design Patterns
 	- Navigation Components
-	- MVVM + Clean Architecture
-	- MVI 
+	- MVVM, MVI, Clean Architecture
 	- Unidireccional dataflow
 	- Coroutines 
 	- Flows
 	- Dependency Injection with Hilt
-	- Firebase 
+	- Firebase integration (Android and Flutter apps)
 	- Room 
 	- Retrofit
 	- WorkManger
@@ -19,8 +18,14 @@
 	- Unit test
 	- Git, GitFlow
 	- All new in native Android development
+	- Jetpack Libraries
 	- Ability to learn and adopt new technologies
-	- Experience in Dart and Flutter
+	- **Dart and Flutter**
+	- Bloc pattern
+	- Beatifull UIs with Flutter
+	- Flutter frontend comunication with backend any library especially Dio and http
+	- Main flutter packages
+	- Local databases
 	- Lover of Python in my free time
 
 <!--
