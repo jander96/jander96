@@ -9,7 +9,7 @@
         
 </div>
 
-
+---
 - ### Skills
 	- **Kotlin**
 	- Design Patterns
