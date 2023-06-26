@@ -53,16 +53,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 
 ---
-### :fire: My Stats :
+<!--### :fire: My Stats :
 <div id="stats" align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jander96&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jander96&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</div>-->
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 
 
 
