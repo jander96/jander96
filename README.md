@@ -37,7 +37,31 @@
 	- Local databases
 	- Lover of Python in my free time
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jander96&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jander96&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### :hammer_and_wrench: Languages and Tools :
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+---
+### :fire: My Stats :
+<div id="stats" align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jander96&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jander96&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 
 
 <!--
