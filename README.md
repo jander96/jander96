@@ -28,6 +28,9 @@
 	- Local databases
 	- Lover of Python in my free time
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jander96&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jander96&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **jander96/jander96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
