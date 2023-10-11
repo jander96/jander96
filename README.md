@@ -53,6 +53,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 
 ---
+### Some open source projects :
+![](https://github.com/jander96/resources_for_repos/blob/main/overview.png)
 <!--### :fire: My Stats :
 <div id="stats" align="center">
 
