@@ -1,14 +1,8 @@
 ## Mobile Developer 
 
+![](https://github.com/jander96/resources_for_repos/blob/main/kotlin_flutter%20friends.gif)
 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif" width="150"/>
-    <div id="badges">
-        <a href="https://www.linkedin.com/in/janderdeveloper/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-	</div>
-        
-</div>
+
 
 ---
 - ### Skills
