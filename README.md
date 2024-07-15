@@ -26,11 +26,14 @@
 	- Ability to learn and adopt new technologies
 	- **Dart and Flutter**
 	- Bloc pattern
+   	- Bloc , Riverpod libraries
+   	- Maps
+   	- GoRouter
 	- Beatifull UIs with Flutter
 	- Flutter frontend comunication with backend any library especially Dio and http
 	- Main flutter packages
 	- Local databases
-	- Lover of Python in my free time
+	
 
 
 ---
@@ -43,8 +46,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 
 ---
 
