@@ -1,7 +1,7 @@
 ## Mobile Developer 
 
-![](https://github.com/jander96/resources_for_repos/blob/main/kotlin_flutter%20friends.gif)
 
+<img src="https://github.com/jander96/resources_for_repos/blob/main/kotlin_flutter%20friends.gif" alt="Descripción de la imagen" width="300" height="200">
 
 
 ---
@@ -47,16 +47,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 
 ---
-### Some open source projects :
-![](https://github.com/jander96/resources_for_repos/blob/main/overview.png)
-<!--### :fire: My Stats :
-<div id="stats" align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jander96&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jander96&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>-->
 
 
 
